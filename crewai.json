@@ -1,0 +1,4 @@
+{
+  "crew": "src/crew.ts:crew",
+  "inputs": { "prompt_key": "topic" }
+}
